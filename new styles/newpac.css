@@ -1,0 +1,258 @@
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.fullscope{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.follow-button{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  height: 35px;
+  width: 65px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.thumbs{
+  width: 45px;
+  height: 45px;
+  border-radius: 25px;
+}
+
+.profilepics{
+  width: 60px;
+}
+
+.accountdesc{
+  width: 200px;
+}
+.olivers{
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.thecap, 
+.popdesc {
+  font-size: 14px;
+  color: rgb(138, 138, 138);
+  margin: 0;
+}
+
+.fullerscope{
+  border: none;
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.header{
+  height: 55px;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  margin-bottom: 30px;
+  flex-direction: row;
+  background-color: rgb(209, 6, 209);
+  justify-content: space-between;
+}
+
+.search-bar{
+  width: 400px;
+  border: none;
+  background-color: white;
+  border-radius: 15px;
+  height: 30px;
+  font-size: 14px;
+  padding-left: 20px;
+}
+
+.downbutton{
+  padding-left: 16px;
+  padding-top: 9px;
+  padding-right: 16px;
+  padding-bottom: 9px;
+  background-color: rgb(209, 6, 209);
+  border-style: solid;
+  color: white;
+  border-color: white;
+  border-width: 1.5px;
+  font-size: 15px;
+}
+
+.left-section{
+  font-weight: 500px;
+  font-size: 14px;
+  color: white;
+}
+
+.item1{
+  width: 200px;
+  height: 50px;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.blank{
+  width: 300px;
+  background-color: blueviolet;
+  align-content: center;
+}
+
+.itemblank{
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.blank2{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.description{
+  color: rgb(146, 146, 146);
+  font-size: 13px;
+}
+
+.bigsale{
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+}
+
+.chewy{
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+}
+
+.ogimage{
+  height: 45px;
+  width: 45px;
+  border-radius: 19px;
+}
+
+.ogimagebox{
+  width: 55px;
+}
+
+.mailbox{
+  display: flex;
+  width: 450px;
+  padding-top: 9px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.allinbox{
+  font-size: 13px;
+  color: rgb(172, 172, 172);
+}
+
+.allinboxdiv{
+  margin-bottom: 10px;
+}
+
+.time{
+  color: rgb(146, 146, 146);
+  font-size: 12px;
+  margin-left: 105px;
+}
+
+.contain{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 400px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-left: 20px;}
+
+  .imagelink{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+
+  }
+
+  .imagelinkdiv{
+    width: 60px;
+    margin-right: 10px;
+  }
+
+  .container{
+    display: flex;
+    width: 400px;
+    margin-bottom: 20px;
+  }
+
+  .rectangle{
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: grey;
+    margin-right: 10px;
+  }
+
+  .dotcome{
+    color: rgb(167, 167, 167);
+    font-size: 15px;
+    margin-bottom: 3px;
+  }
+
+  .backend{
+    color: black;
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .vidpreview{
+    display: flex;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 0.5px;
+    overflow: hidden;
+    width: 290px;
+    align-items: center;
+    border-color: rgb(218, 218, 218);
+  }
+
+  .twtusername{
+    color: rgb(167, 167, 167);
+    font-size: 17px;
+    margin-bottom:4px ;
+  }
+
+  .twtname{
+    color: black;
+  }
+
+  .realtweet{
+    font-size: 15px;
+    color: black;
+    margin-bottom: 10px;
+  }
+
+  .youtubedeets{
+    flex: 1;
+  }

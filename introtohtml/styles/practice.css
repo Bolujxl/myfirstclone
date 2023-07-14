@@ -1,0 +1,248 @@
+p{
+  font-family: Arial;
+}
+.Requestnow-button {
+background-color: black;
+color: white;
+height: 36px;
+width: 110px;
+font-weight: regular;
+font-size: 13;
+margin-right: 10px;
+}
+
+.Addtocart-button {
+background-color: rgb(255, 216, 20);
+color: black;
+height: 30px;
+width: 150px;
+font-size: 14px;
+border: none;
+border-radius: 15px;
+}
+
+.Signup-button{
+background-color: rgb(46, 164, 79);
+color: white;
+height: 36px;
+width: 83px;
+border: none;
+border-radius: 5px;
+font-size: 15px;
+font-weight: medium;
+margin-left: 10px;
+}
+
+.Getstarted-button{
+background-color: rgb(121, 82, 179);
+color: white;
+height: 36px;
+width: 110px;
+font-size: 15px;
+border: none;
+border-radius: 4px;
+margin-left: 10px;
+}
+
+.Download-button{
+background-color: white;
+color: rgb(108, 117, 125);
+height: 36px;
+width: 110px;
+font-size: 15px;
+border-style: solid;
+border-color: rgb(108, 117, 125);
+border-radius: 5px;
+border-width: 0.5px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.Stretch-button{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 10px;
+padding-left: 16px;
+padding-bottom: 10px;
+padding-right: 16px;
+vertical-align: top;
+transition: 0.4s;
+margin-right: 10px;
+cursor: pointer;
+}
+
+.Stretch-button:hover{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 20px;
+padding-left: 35px;
+padding-bottom: 20px;
+padding-right: 35px;
+
+}
+
+.Shadow-button{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 8px;
+padding-left: 14px;
+padding-bottom: 8px;
+padding-right: 14px;
+vertical-align: top;
+margin-right: 12px;
+}
+
+.Shadow-button:active{
+box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.2);
+}
+
+.Back-button{
+background-color: gainsboro;
+color: black;
+font-size: 17;
+border-width: 0.5px;
+padding-left: 8px;
+padding-top: 9px;
+padding-bottom: 9px;
+padding-right: 8px;
+margin-right: 10px;
+}
+
+.one-button{
+background-color: white;
+color: rgb(35, 0, 99);
+border: none;
+text-decoration-line: underline;
+font-size: 19px;
+vertical-align: middle;
+}
+
+.two-button{
+background-color: white;
+color: rgb(35, 0, 99);
+border: none;
+text-decoration-line: underline;
+font-size: 19px;
+vertical-align: middle;
+}
+
+.three-button{
+background-color: white;
+color: rgb(35, 0, 99);
+border: none;
+text-decoration-line: underline;
+font-size: 19px;
+vertical-align: middle;
+}
+
+.four-button{
+background-color: white;
+color: rgb(35, 0, 99);
+border: none;
+text-decoration-line: underline;
+font-size: 19px;
+vertical-align: middle;
+}
+
+.five-button{
+background-color: white;
+color: rgb(35, 0, 99);
+border: none;
+text-decoration-line: underline;
+font-size: 19px;
+vertical-align: middle;
+margin-right: 10px;
+}
+
+.Next-button{
+background-color: gainsboro;
+color: black;
+font-size: 17;
+border-width: 0.5px;
+padding-left: 8px;
+padding-top: 9px;
+padding-bottom: 9px;
+padding-right: 8px;
+margin-right: 10px;
+}
+
+.onestretch-button{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 8px;
+padding-left: 14px;
+padding-bottom: 8px;
+padding-right: 14px;
+vertical-align: middle;
+margin-right: 12px;
+transition: 0.4s;
+}
+
+.onestretch-button:hover{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 8px;
+padding-left: 19px;
+padding-bottom: 8px;
+padding-right: 19px;
+}
+
+.twostretch-button{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 8px;
+padding-left: 14px;
+padding-bottom: 8px;
+padding-right: 14px;
+vertical-align: middle;
+margin-right: 20px;
+transition: 0.4s;
+}
+
+.twostretch-button:hover{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 8px;
+padding-left: 19px;
+padding-bottom: 8px;
+padding-right: 19px;
+}
+
+.threestretch-button{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 8px;
+padding-left: 14px;
+padding-bottom: 8px;
+padding-right: 14px;
+vertical-align: middle;
+margin-right: 12px;
+transition: 0.4s;
+}
+
+.threestretch-button:hover{
+background-color: green;
+color: white;
+font-size: 17px;
+border: none;
+padding-top: 8px;
+padding-left: 19px;
+padding-bottom: 8px;
+padding-right: 19px;
+}

@@ -1,0 +1,397 @@
+p{
+  font-family: Montserrat;
+  color: rgb(100, 100, 100);
+  margin-top: 0;
+  margin-bottom: 0;
+ }
+
+
+.model-three{
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.bottom-text{
+  font-size: 20px;
+}
+
+.touch-dev{
+  margin-bottom: 24px;
+  text-decoration: underline;
+}
+
+
+
+.label {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.text-box {
+  font-size: 16px;
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(100, 100, 100);
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.disclaimer {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.join-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  font-size: 20px;
+  width: 400px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 30px;
+  margin-bottom: 24px;
+}
+
+.thumbs{
+  width: 45px;
+  height: 45px;
+  border-radius: 20px;
+  object-fit: cover;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.textholder{
+  vertical-align: middle;
+  width: 300px;
+  color: rgb(0, 0, 0);
+  border: none;
+  font-size: 15px;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 75px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15;
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+  vertical-align: middle;
+} 
+
+.notes{
+  margin-top: 20px;
+  margin-bottom: 34px;
+  font-style: italic;
+  font-size: 15px;
+  color: black;
+}
+
+.textbox{
+  display: block;
+  width: 160px;
+  height: 15px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-width: 2px;
+  border-color: rgb(131, 131, 131) ;
+  border-style: solid;
+
+}
+
+.emailbox{
+  display: block;
+  width: 160px;
+  height: 15px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-width: 2px;
+  border-color: rgb(131, 131, 131) ;
+  border-style: solid;
+  margin-bottom: 35px;
+}
+
+.suport{
+  width: 300px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 45px;
+}
+
+.yesbutton{
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.nobutton{
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.imgthumb{
+  padding-left: 150px;
+  width: 100px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+
+
+.searchbar{
+  font-family: Montserrat;
+  font-size: 13px;
+  border-width: 0,5;
+  border-color: rgb(202, 202, 202);
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  height: 44px;
+  padding-left: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-radius: 20px;
+  border-style: solid;
+  margin-bottom: 25px;
+  display: inline-block;
+}
+
+.Firstbox{
+  display: inline-block;
+  width: 160px;
+  height: 15px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 1px;
+  border-color: rgb(190, 190, 190) ;
+  border-style: solid;
+  margin-bottom: 15px;
+}
+
+.Firstbox{
+  display: inline-block;
+  width: 160px;
+  height: 15px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 1px;
+  border-color: rgb(190, 190, 190) ;
+  border-style: solid;
+  margin-bottom: 15px;
+}
+
+.Fmailbox{
+  display: block;
+  width: 340px;
+  height: 15px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 1px;
+  border-color: rgb(190, 190, 190) ;
+  border-style: solid;
+  margin-bottom: 10px;
+}
+
+.signupbut{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  height: 44px;
+  width: 300px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 45px;
+}
+
+.request{
+  font-size: 30px;
+  color: black;
+  font-weight: 600px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.entertext{
+  display: block;
+  width: 340px;
+  height: 20px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  margin-bottom: 10px;
+  color: rgb(126, 126, 126);
+  background-color: rgb(221, 221, 221) ;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.entered{
+  display: block;
+  width: 340px;
+  height: 20px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  margin-bottom: 10px;
+  color: rgb(126, 126, 126);
+  background-color: rgb(221, 221, 221) ;
+  padding-left: 10px;
+}
+
+.requester{
+  display: inline-block;
+  background-color: rgb(12, 12, 12);
+  color: white;
+  border: none;
+  height: 44px;
+  width: 120px;
+  border-radius: 0px;
+  font-size: 12px;
+  cursor: pointer;
+  font-family: Montserrat;
+  margin-bottom: 45px;
+  margin-right: 10px;
+}
+
+.schedule{
+  display: inline-block;
+  background-color: rgb(12, 12, 12);
+  color: white;
+  border: none;
+  height: 44px;
+  width: 150px;
+  cursor: pointer;  
+  font-family: Montserrat;
+}
+
+.redsquare{
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  display: block;
+}
+
+.greensquare{
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  display: block;
+  margin-bottom: 40px;
+}
+
+.services{
+  width: 300px;
+  border-width: 1px;
+  border-color: rgb(146, 145, 145);
+  border-style: solid;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  margin-bottom: 25px;
+}
+
+.yesbut{
+  margin-right: 5px;
+}
+
+.title{
+  font-family: Montserrat;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.servicees{
+  width: 300px;
+  border-width: 1px;
+  background-color: black;
+  color: aliceblue;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  margin-bottom: 34px;
+}
+
+.youtuber{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+
+.youtubest{
+  font-family: Montserrat;
+  font-size: 12px;
+}
+
+.tweetr{
+  width: 450px;
+  height: 50px;
+  vertical-align: middle;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2)
+}
+
+.added{
+  width: 130px;
+  background-color: white;
+  display: inline-block;
+
+  
+}
+
+.addfriend{
+  width: 130px;
+  height: 140px;
+  border-radius: 2px;
+  margin-bottom: 3px;
+}
+
+.olivertext{
+  font-family: Montserrat;
+  font-size: 14px;
+  margin-bottom: 0px;
+  color: black;
+}
+
+.moottext{
+  font-size: 13px;
+  font-weight: 500px;
+  color: rgb(107, 107, 107);
+  margin-bottom: 6px;
+}
+
+.addbutton{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  height: 34px;
+  width: 100px;
+  border-radius: 3px;
+  font-weight: 300;
+  font-size: 11;
+  cursor: pointer;
+  vertical-align: top;
+  font-family: Montserrat;
+}

@@ -1,0 +1,146 @@
+
+.thumbnail{
+  width: 100%;
+}
+
+.videotitle{
+  margin-top: 0px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  margin-bottom: 10px;
+
+}
+
+.videoinfogrid{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.channelpicture{
+  width: 50px;
+  vertical-align: top;
+  position: relative;
+  display: flex;
+}
+
+.videoinfo{
+  width: 245px;
+}
+
+.profilepic{
+  width: 36px;
+  border-radius: 25px;
+  
+}
+
+.thumbnailrow{
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.video-author, 
+.videostats {
+  font-size: 12px;
+  color: rgb(96, 96, 96);
+}
+
+.video-author{
+  margin-bottom: 4px;
+}
+
+.videogrid{
+  display: grid;
+  column-gap: 15px;
+  row-gap: 30px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media (max-width: 750px) {
+  .videogrid{
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+
+@media (min-width: 751px) (max-width: 999px) {
+  .videogrid{
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 1000px) {
+  .videogrid{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.videotime{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+  right: 5px;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 6px;
+  border-radius: 2px;
+}
+
+.profilepicbox{
+  position: relative;
+  display: inline-block;
+}
+
+.profilepicbox .channelpicbox{
+  background-color: white;
+  width: 200px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  margin-top: 4px;
+  position: absolute;
+  left: 12px;
+  top: 40px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  opacity: 0;
+  z-index: 100;
+  pointer-events: none;
+}
+
+.profilepicbox:hover .channelpicbox{
+  opacity: 1;
+}
+
+.channelpicart{
+  display: inline-block;
+  width: 55px;
+  margin-right: 5px;
+}
+.sourcepic{
+  width: 45px;
+  height: 45px;
+  border-radius: 23px;
+  margin-right: 10px;
+}
+
+.channelnamess{
+  font-size: 15px;
+  font-family: Roboto,Arial ;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  margin-bottom: 4px;
+}
+
+.channelstatss{
+  font-size: 14px;
+  color: gray;
+  font-family: Roboto, Arial;
+}
